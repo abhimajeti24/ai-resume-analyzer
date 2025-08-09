@@ -93,9 +93,7 @@ The app will be available at **http://localhost:5173** (Vite default) or your co
 
 | Resume Upload | ATS Score | Detailed Feedback |
 |---------------|-----------|-------------------|
-| <img width="1317" height="800" alt="image" src="https://github.com/user-attachments/assets/47868f01-bf60-4c6d-b395-19c95c5be44e" />
- | <img width="1898" height="879" alt="image" src="https://github.com/user-attachments/assets/b42b87f9-88f7-4835-be8e-9fd2fdc5244f" />
- | <img width="948" height="868" alt="image" src="https://github.com/user-attachments/assets/e687d5a3-1f3a-46c8-bcfe-fe82f40431dd" /> |
+| <img width="1317" height="800" alt="image" src="https://github.com/user-attachments/assets/47868f01-bf60-4c6d-b395-19c95c5be44e" /> | <img width="1898" height="879" alt="image" src="https://github.com/user-attachments/assets/b42b87f9-88f7-4835-be8e-9fd2fdc5244f" /> | <img width="948" height="868" alt="image" src="https://github.com/user-attachments/assets/e687d5a3-1f3a-46c8-bcfe-fe82f40431dd" /> |
 
 ---
 
